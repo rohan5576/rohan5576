@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rohan%20Lodhi-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rohan-lodhi-b45330b4/)
 [![Mail](https://img.shields.io/badge/Gmail-lodhirohan138@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:lodhirohan138@gmail.com)
 [![Github](https://img.shields.io/badge/-rohan5576-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/rohan5576)
+<a href="https://stackoverflow.com/users/6920195/rohan-lodhi?tab=profile" alt="Stack overflow"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png"></code></a>
+
 
 ![](https://komarev.com/ghpvc/?username=rohan5576&style=flat)
-
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rohan Surendra Lodhi</strong></samp></h2>
 <h4> <p  align='center'>Freelancer|| Senior Software developer || Android || Kotlin || Java </p></h4> 
@@ -80,11 +81,12 @@
 - [Security While Sending the Data to Server Using SSL](https://www.linkedin.com/pulse/security-while-sending-data-server-using-sslsecure-sockets-lodhi/)
 <!-- BLOG-POST-LIST:END -->
 
+
 ## 🔝 Most used languages
 
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan5576&layout=compact&hide_border=true&theme=radical" />
 
----
+
 
 ## 📕 Pinned Repositories
 
@@ -108,7 +110,10 @@
 
 </p>      
         
-        
 
+
+
+Watch my contribution graph being eaten by a Snake! 🐍
+![Snake animation](https://github.com/rohan5576/rohan5576/blob/output/github-contribution-grid-snake.svg)
 
 

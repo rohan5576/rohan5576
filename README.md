@@ -15,7 +15,7 @@
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop android applications and ever since been a self taught software developer also unstopped learner. I am always evolved and loves to  learning or do new things in a career.</p>
 
- I have 6+ years of an experience in Mobile Application development. Have Strong Knowledge of Core Java, Android SDK, and REST API,OOP's concepts.
+ I have 8+ years of an experience in Mobile Application development. Have Strong Knowledge of Core Java, Android SDK, and REST API,OOP's concepts.
  Done my Post graduation diploma in Mobile computing form CDAC ACTS where I learned application development in Java development, Android development, IOS, WIndows, Database. While developing application I am responsible for analysis, design, development, and deployment of applications.
 
 ## ⚡ Tech Stack

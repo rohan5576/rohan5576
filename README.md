@@ -11,12 +11,37 @@
 ![](https://komarev.com/ghpvc/?username=rohan5576&style=flat)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rohan Surendra Lodhi</strong></samp></h2>
-<h4> <p  align='center'>Freelancer|| Senior Software developer || Android || Kotlin || Java </p></h4> 
+<h4>
+  <p align='center'>
+    Freelancer || Senior Software Developer || Android || Kotlin || Java || n8n
+  </p>
+</h4>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop android applications and ever since been a self taught software developer also unstopped learner. I am always evolved and loves to  learning or do new things in a career.</p>
+<p align='left'>
+  📫 I’m a passionate, self-taught software developer with over 9 years of experience in mobile application development, specializing in Android. I love building scalable, user-friendly Android applications and continuously exploring new technologies in both tech and life. Learning never stops for me. I'm always evolving and excited to take on new challenges.
+</p>
 
- I have 8+ years of an experience in Mobile Application development. Have Strong Knowledge of Core Java, Android SDK, and REST API,OOP's concepts.
- Done my Post graduation diploma in Mobile computing form CDAC ACTS where I learned application development in Java development, Android development, IOS, WIndows, Database. While developing application I am responsible for analysis, design, development, and deployment of applications.
+<p align='left'>
+  My core technical expertise includes:
+  <ul>
+    <li>Android app development using Kotlin and Java</li>
+    <li>MVVM, MVP, and Clean Architecture patterns</li>
+    <li>Jetpack components (LiveData, ViewModel, Navigation, Room, WorkManager)</li>
+    <li>Coroutines, RxJava, Dagger, Hilt</li>
+    <li>Firebase (Authentication, Firestore, Analytics, Cloud Messaging)</li>
+    <li>RESTful APIs, Retrofit, OkHttp</li>
+    <li>Data persistence and local storage (Room DB, SQLite, SharedPreferences)</li>
+    <li>Dependency injection, modular app architecture</li>
+    <li>CI/CD integration, version control with Git</li>
+    <li>Experience with tools like Android Studio, Postman, Figma</li>
+    <li>Automation and workflow building using <strong>n8n</strong></li>
+  </ul>
+</p>
+
+<p align='left'>
+  I hold a Postgraduate Diploma in Mobile Computing from CDAC ACTS, where I gained hands-on experience in Java, Android, iOS, Windows development, and databases. I’ve been responsible for end-to-end mobile app development—from analysis and design to development and deployment.
+</p>
+
 
 ## ⚡ Tech Stack
 
@@ -111,9 +136,5 @@
 </p>      
         
 
-
-
-Watch my contribution graph being eaten by a Snake! 🐍
-![Snake animation](https://github.com/rohan5576/rohan5576/blob/output/github-contribution-grid-snake.svg)
 
 
